@@ -29,15 +29,4 @@ public class JIANZHI_06 {
         return ints;
     }
 
-    class ListNode{
-        int val;
-
-        public ListNode next;
-
-        ListNode(int x){
-            this.val = x;
-        }
-
-
-    }
 }
